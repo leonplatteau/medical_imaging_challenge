@@ -1,0 +1,6 @@
+.venv/
+Data/
+data/
+isic-2024-challenge/
+__pycache__/
+*.pyc
